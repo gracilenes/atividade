@@ -2,6 +2,10 @@
     text-align: center;
 }
 .dimensaoimg{
-    height: 180px;
-    width: 180px;
+    height: 200px;
+    width: 100%;
+}
+
+.tilulo2{
+    text-align: center;
 }
